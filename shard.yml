@@ -1,0 +1,14 @@
+name: fork
+version: 0.1.0
+
+authors:
+  - Postmodern <postmodern.mod3@gmail.com>
+
+crystal: 1.1.0
+
+license: MIT
+
+development_dependencies:
+  spectator:
+    gitlab: arctic-fox/spectator
+    version: "~> 0.9, >= 0.9.9"
